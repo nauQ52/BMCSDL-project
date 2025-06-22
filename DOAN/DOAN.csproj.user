@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="F_CIPHER\fMultiEncryption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_MAIN\fGrantGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_MAIN\fProductAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_MAIN\fProductDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_MAIN\fProductManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_AUTH\fAuthFace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_AUTH\fAuthHash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_AUTH\fAuthSimple.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_CIPHER\fCaesarCipher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_AUTH\fAuthChallengeRes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_MAIN\fAuthentication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_AUTH\fAuthPublicKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_AUTH\fAuthSym.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_CIPHER\fDesCipher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_CIPHER\fMaHoaRSA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_MAIN\fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_MAIN\fProductUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_MAIN\fRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_MAIN\fStandardAuditing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_MAIN\fGrantPolicy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_MAIN\fCrOracleLableSecurity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_MAIN\fCrPolicy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

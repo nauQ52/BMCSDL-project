@@ -1,0 +1,538 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|c:\\users\\acer\\desktop\\bmcsdl_nhom1111_btn\\doan\\f_main\\fproductupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_main\\fproductupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_main\\fproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_main\\fproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_main\\fproductdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_main\\fproductdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_main\\fcrpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_main\\fcrpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_main\\fcroraclelablesecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_main\\fcroraclelablesecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_main\\fauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_main\\fauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_cipher\\ftripledescipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_cipher\\ftripledescipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_cipher\\fdescipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_cipher\\fdescipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_cipher\\fcaesarcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_cipher\\fcaesarcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_auth\\fauthsym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_auth\\fauthsym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_auth\\fauthpublickey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_auth\\fauthpublickey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_auth\\fauthchallengeres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_auth\\fauthchallengeres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|c:\\users\\acer\\desktop\\bmcsdl_nhom1111_btn\\doan\\cipher\\tripledesoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:cipher\\tripledesoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|c:\\users\\acer\\desktop\\bmcsdl_nhom1111_btn\\doan\\cipher\\rsaoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:cipher\\rsaoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|c:\\users\\acer\\desktop\\bmcsdl_nhom1111_btn\\doan\\cipher\\multiencryptionoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:cipher\\multiencryptionoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|c:\\users\\acer\\desktop\\bmcsdl_nhom1111_btn\\doan\\cipher\\desoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:cipher\\desoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|c:\\users\\acer\\desktop\\bmcsdl_nhom1111_btn\\doan\\cipher\\caesarcipheroracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:cipher\\caesarcipheroracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|c:\\users\\acer\\desktop\\bmcsdl_nhom1111_btn\\doan\\f_auth\\fauthsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_auth\\fauthsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_main\\fgrantgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_main\\fgrantgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_main\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_main\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_main\\fgrantpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_main\\fgrantpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_main\\fstandardauditing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_main\\fstandardauditing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_main\\fregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_main\\fregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_cipher\\fmahoarsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_cipher\\fmahoarsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_cipher\\fmultiencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_cipher\\fmultiencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|c:\\users\\acer\\desktop\\bmcsdl_nhom1111_btn\\doan\\f_cipher\\fcaesarcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_cipher\\fcaesarcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|c:\\users\\acer\\desktop\\bmcsdl_nhom1111_btn\\doan\\f_main\\fproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_main\\fproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|c:\\users\\acer\\desktop\\bmcsdl_nhom1111_btn\\doan\\f_main\\fproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_main\\fproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\f_main\\fproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_main\\fproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|c:\\users\\acer\\desktop\\bmcsdl_nhom1111_btn\\doan\\f_cipher\\fdescipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_cipher\\fdescipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|c:\\users\\acer\\desktop\\bmcsdl_nhom1111_btn\\doan\\f_cipher\\fmultiencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_cipher\\fmultiencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|c:\\users\\acer\\desktop\\bmcsdl_nhom1111_btn\\doan\\f_cipher\\ftripledescipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6C8D7A-A093-405E-8DA5-D1D8AD65A1BE}|DOAN.csproj|solutionrelative:f_cipher\\ftripledescipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fProductUpdate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fProductUpdate.cs",
+              "RelativeDocumentMoniker": "F_MAIN\\fProductUpdate.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fProductUpdate.cs [Design]",
+              "RelativeToolTip": "F_MAIN\\fProductUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:43:07.427Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fProductDelete.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fProductDelete.cs",
+              "RelativeDocumentMoniker": "F_MAIN\\fProductDelete.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fProductDelete.cs [Design]",
+              "RelativeToolTip": "F_MAIN\\fProductDelete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:43:04.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fCrOracleLableSecurity.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fCrOracleLableSecurity.cs",
+              "RelativeDocumentMoniker": "F_MAIN\\fCrOracleLableSecurity.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fCrOracleLableSecurity.cs [Design]",
+              "RelativeToolTip": "F_MAIN\\fCrOracleLableSecurity.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:43:01.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fAuthentication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fAuthentication.cs",
+              "RelativeDocumentMoniker": "F_MAIN\\fAuthentication.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fAuthentication.cs [Design]",
+              "RelativeToolTip": "F_MAIN\\fAuthentication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:43:00.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fAuthSym.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_AUTH\\fAuthSym.cs",
+              "RelativeDocumentMoniker": "F_AUTH\\fAuthSym.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_AUTH\\fAuthSym.cs [Design]",
+              "RelativeToolTip": "F_AUTH\\fAuthSym.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:42:51.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fCaesarCipher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fCaesarCipher.cs",
+              "RelativeDocumentMoniker": "F_CIPHER\\fCaesarCipher.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fCaesarCipher.cs [Design]",
+              "RelativeToolTip": "F_CIPHER\\fCaesarCipher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:49:24.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fProductManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fProductManager.cs",
+              "RelativeDocumentMoniker": "F_MAIN\\fProductManager.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fProductManager.cs [Design]",
+              "RelativeToolTip": "F_MAIN\\fProductManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:00:59.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fAuthPublicKey.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_AUTH\\fAuthPublicKey.cs",
+              "RelativeDocumentMoniker": "F_AUTH\\fAuthPublicKey.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_AUTH\\fAuthPublicKey.cs [Design]",
+              "RelativeToolTip": "F_AUTH\\fAuthPublicKey.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:42:50.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fCrPolicy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fCrPolicy.cs",
+              "RelativeDocumentMoniker": "F_MAIN\\fCrPolicy.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fCrPolicy.cs [Design]",
+              "RelativeToolTip": "F_MAIN\\fCrPolicy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:53:32.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fAuthChallengeRes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_AUTH\\fAuthChallengeRes.cs",
+              "RelativeDocumentMoniker": "F_AUTH\\fAuthChallengeRes.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_AUTH\\fAuthChallengeRes.cs [Design]",
+              "RelativeToolTip": "F_AUTH\\fAuthChallengeRes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:42:42.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fDesCipher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fDesCipher.cs",
+              "RelativeDocumentMoniker": "F_CIPHER\\fDesCipher.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fDesCipher.cs [Design]",
+              "RelativeToolTip": "F_CIPHER\\fDesCipher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:58:55.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fTripleDesCipher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fTripleDesCipher.cs",
+              "RelativeDocumentMoniker": "F_CIPHER\\fTripleDesCipher.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fTripleDesCipher.cs [Design]",
+              "RelativeToolTip": "F_CIPHER\\fTripleDesCipher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:57:29.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DesOracle.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\CIPHER\\DesOracle.cs",
+              "RelativeDocumentMoniker": "CIPHER\\DesOracle.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\CIPHER\\DesOracle.cs",
+              "RelativeToolTip": "CIPHER\\DesOracle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:13:20.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CaesarCipherOracle.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\CIPHER\\CaesarCipherOracle.cs",
+              "RelativeDocumentMoniker": "CIPHER\\CaesarCipherOracle.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\CIPHER\\CaesarCipherOracle.cs",
+              "RelativeToolTip": "CIPHER\\CaesarCipherOracle.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:27:18.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "fAuthSimple.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_AUTH\\fAuthSimple.cs",
+              "RelativeDocumentMoniker": "F_AUTH\\fAuthSimple.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_AUTH\\fAuthSimple.cs",
+              "RelativeToolTip": "F_AUTH\\fAuthSimple.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:55:05.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "fRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fRegister.cs",
+              "RelativeDocumentMoniker": "F_MAIN\\fRegister.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fRegister.cs [Design]",
+              "RelativeToolTip": "F_MAIN\\fRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:46:38.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MultiEncryptionOracle.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\CIPHER\\MultiEncryptionOracle.cs",
+              "RelativeDocumentMoniker": "CIPHER\\MultiEncryptionOracle.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\CIPHER\\MultiEncryptionOracle.cs",
+              "RelativeToolTip": "CIPHER\\MultiEncryptionOracle.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:27:18.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RSAOracle.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\CIPHER\\RSAOracle.cs",
+              "RelativeDocumentMoniker": "CIPHER\\RSAOracle.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\CIPHER\\RSAOracle.cs",
+              "RelativeToolTip": "CIPHER\\RSAOracle.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:41:54.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TripleDesOracle.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\CIPHER\\TripleDesOracle.cs",
+              "RelativeDocumentMoniker": "CIPHER\\TripleDesOracle.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\CIPHER\\TripleDesOracle.cs",
+              "RelativeToolTip": "CIPHER\\TripleDesOracle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:48:15.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "fGrantPolicy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fGrantPolicy.cs",
+              "RelativeDocumentMoniker": "F_MAIN\\fGrantPolicy.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fGrantPolicy.cs [Design]",
+              "RelativeToolTip": "F_MAIN\\fGrantPolicy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:05:44.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "fGrantGUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fGrantGUI.cs",
+              "RelativeDocumentMoniker": "F_MAIN\\fGrantGUI.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fGrantGUI.cs [Design]",
+              "RelativeToolTip": "F_MAIN\\fGrantGUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:53:38.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "fStandardAuditing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fStandardAuditing.cs",
+              "RelativeDocumentMoniker": "F_MAIN\\fStandardAuditing.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fStandardAuditing.cs [Design]",
+              "RelativeToolTip": "F_MAIN\\fStandardAuditing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:53:51.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fLogin.cs",
+              "RelativeDocumentMoniker": "F_MAIN\\fLogin.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fLogin.cs [Design]",
+              "RelativeToolTip": "F_MAIN\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:53:57.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "fMultiEncryption.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fMultiEncryption.cs",
+              "RelativeDocumentMoniker": "F_CIPHER\\fMultiEncryption.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fMultiEncryption.cs [Design]",
+              "RelativeToolTip": "F_CIPHER\\fMultiEncryption.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:43:18.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "fMaHoaRSA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fMaHoaRSA.cs",
+              "RelativeDocumentMoniker": "F_CIPHER\\fMaHoaRSA.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fMaHoaRSA.cs [Design]",
+              "RelativeToolTip": "F_CIPHER\\fMaHoaRSA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:58:53.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "fProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fProductManager.cs",
+              "RelativeDocumentMoniker": "F_MAIN\\fProductManager.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fProductManager.cs",
+              "RelativeToolTip": "F_MAIN\\fProductManager.cs",
+              "ViewState": "AgIAAF4BAAAAAAAAAAAAAHgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:33:09.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "fProductAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fProductAdd.cs",
+              "RelativeDocumentMoniker": "F_MAIN\\fProductAdd.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fProductAdd.cs",
+              "RelativeToolTip": "F_MAIN\\fProductAdd.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:47:26.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "fCaesarCipher.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fCaesarCipher.cs",
+              "RelativeDocumentMoniker": "F_CIPHER\\fCaesarCipher.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fCaesarCipher.cs",
+              "RelativeToolTip": "F_CIPHER\\fCaesarCipher.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwF0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:52:46.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "fProductAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fProductAdd.cs",
+              "RelativeDocumentMoniker": "F_MAIN\\fProductAdd.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_MAIN\\fProductAdd.cs [Design]",
+              "RelativeToolTip": "F_MAIN\\fProductAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:10:54.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "fTripleDesCipher.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fTripleDesCipher.cs",
+              "RelativeDocumentMoniker": "F_CIPHER\\fTripleDesCipher.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fTripleDesCipher.cs",
+              "RelativeToolTip": "F_CIPHER\\fTripleDesCipher.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowHMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:56:26.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "fMultiEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fMultiEncryption.cs",
+              "RelativeDocumentMoniker": "F_CIPHER\\fMultiEncryption.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fMultiEncryption.cs",
+              "RelativeToolTip": "F_CIPHER\\fMultiEncryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:43:55.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "fDesCipher.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fDesCipher.cs",
+              "RelativeDocumentMoniker": "F_CIPHER\\fDesCipher.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BMCSDL_NHOM1111_BTN\\DOAN\\F_CIPHER\\fDesCipher.cs",
+              "RelativeToolTip": "F_CIPHER\\fDesCipher.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wHkAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:52:19.274Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
